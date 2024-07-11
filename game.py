@@ -103,5 +103,3 @@ while gameRunning:
     # check for win or tie again
     checkWin()
     checkTie(board)
-
-#Test11
